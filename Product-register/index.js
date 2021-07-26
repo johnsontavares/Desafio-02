@@ -1,6 +1,6 @@
 function cadastrado(){
     alert("Dados cadastrados com sucesso !")
-    window.location.href= "../Home/Home.html"
+    window.location.href= "../Home.html"
 
     var Produto = document.getElementById("campo1").value
     var CPF = document.getElementById("campo2").value

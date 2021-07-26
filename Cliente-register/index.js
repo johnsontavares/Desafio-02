@@ -5,7 +5,7 @@ function clicou(){
 
 function cadastrado(){
     alert("Dados cadastrados com sucesso !")
-    window.location.href= "../Home/Home.html"
+    window.location.href= "../Home.html"
 
 
     var Nome = document.getElementById("campo1").value
